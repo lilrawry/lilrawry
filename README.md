@@ -12,4 +12,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zsshtwb3bs0eyf2hknvce8cqf&cover_image=true&theme=compact&show_offline=false&background_color=341c8d&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=zsshtwb3bs0eyf2hknvce8cqf&redirect=true) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lilrawry&" alt="lilrawry" /></p>
+
