@@ -3,13 +3,6 @@
 
 - 🔭 I’m currently working on [docs](https://github.com/lilrawry/docs)
 
-<h3 align="left">My social accounts:</h3>
-<p align="left">
-<a href="https://twitter.com/zyiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zyiz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adib-zindine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adib-zindine/" height="30" width="40" /></a>
-<a href="https://instagram.com/_u2cf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_u2cf" height="30" width="40" /></a>
-</p>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_u2cf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zyiz) 
 # 📊 GitHub Stats:
