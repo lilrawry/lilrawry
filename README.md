@@ -1,11 +1,7 @@
 <h1 align="center">Hi Hi 👋, I'm Tiger</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 Maybe I’m currently Translating [🐈‍⬛](https://github.com/lilrawry/docs)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_u2cf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zyiz) 
-# 📊 GitHub Stats:
+- 🔭 Maybe I’m currently Translating [🐈‍⬛](https://github.com/lilrawry/)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lilrawry&theme=dark&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
