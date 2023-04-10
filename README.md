@@ -1,7 +1,7 @@
 <h1 align="center">Hi Hi 👋, I'm Tiger</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 Maybe I’m currently Translating a [🐈‍⬛](https://github.com/lilrawry/docs)
+- Maybe I’m currently Translating a [🐈‍⬛](https://github.com/lilrawry/docs)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lilrawry&theme=dark&hide_border=false)<br/>
